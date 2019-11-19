@@ -25,7 +25,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Oluwadamilareolusakin/javascript-tic-tac-toe/issues).
+Feel free to check the [issues page](https://github.com/Oluwadamilareolusakin/javascript-restaurant-page/issues).
 
 ## Show your support
 
