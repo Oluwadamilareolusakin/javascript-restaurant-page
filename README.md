@@ -2,6 +2,8 @@
 A simple SPA built in Vanilla JS using webpack and ES6 Module style JS, SASS and Images
 
 ![screenshot](src/images/Screenshot%20from%202019-11-19%2013-00-20.png)
+![screenshot](src/images/Screenshot_2019-11-19-20-58-05.png)
+![screenshot](src/images/Screenshot_2019-11-19-20-58-10.png)
 
 # What it does
 It displays my skills in using JS(ES6) and configuring webpack to handle several file types using devtools like `style-loader`, `node-sass`, `sass-loader` and `url-loader`
