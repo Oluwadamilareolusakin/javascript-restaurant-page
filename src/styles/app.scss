@@ -1,0 +1,50 @@
+*{
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+.row{
+  display: flex;
+  flex-flow: row nowrap;
+}
+
+.column{
+  display: flex;
+  flex-flow: column nowrap;
+}
+
+.nav-links{
+  color: red;
+  margin-right: 1em;
+  cursor: pointer;
+}
+
+.homepage-left, .homepage-right{
+  width: 50%;
+  height: 100vh;
+}
+
+.homepage-left{
+  background-image: url('../images/1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.homepage-right{
+  padding: 1em 2em;
+}
+
+nav{
+  justify-content: space-between;
+  padding: 1em 0;
+}
+
+.home-content{
+  padding: 4em 0;
+
+  .paragraph{
+    margin-top: 2em;
+  }
+}
