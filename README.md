@@ -1,7 +1,9 @@
 # Javascript Tic-Tac-Toe
 A simple SPA built in Vanilla JS using webpack and ES6 Module style JS, SASS and Images
 
-![screenshot](assets/images/Screenshot%20from%202019-11-18%2014-09-29.png)
+![screenshot](src/images/Screenshot%20from%202019-11-19%2013-00-20.png)
+![screenshot](src/images/Screenshot_2019-11-19-20-58-05.png)
+![screenshot](src/images/Screenshot_2019-11-19-20-58-10.png)
 
 # What it does
 It displays my skills in using JS(ES6) and configuring webpack to handle several file types using devtools like `style-loader`, `node-sass`, `sass-loader` and `url-loader`
@@ -13,7 +15,8 @@ It displays my skills in using JS(ES6) and configuring webpack to handle several
 
 ## Live Demo
 
-[Live Demo](https://raw.githack.com/Oluwadamilareolusakin/javascript-restaurant-page/development/dist/index.html)
+[Live Demo](https://rawcdn.githack.com/Oluwadamilareolusakin/javascript-restaurant-page/80f390f8d53048d94725bc42d7e18cec43592acd/dist/index.html)
+
 
 ## Getting Started
 
