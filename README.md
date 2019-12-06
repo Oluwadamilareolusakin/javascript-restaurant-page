@@ -17,6 +17,7 @@ It displays my skills in using JS(ES6) and configuring webpack to handle several
 
 [Live Demo](https://rawcdn.githack.com/Oluwadamilareolusakin/javascript-restaurant-page/80f390f8d53048d94725bc42d7e18cec43592acd/dist/index.html)
 
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
