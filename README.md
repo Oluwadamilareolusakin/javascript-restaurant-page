@@ -13,7 +13,7 @@ It displays my skills in using JS(ES6) and configuring webpack to handle several
 
 ## Live Demo
 
-[Live Demo](https://rawcdn.githack.com/Oluwadamilareolusakin/javascript-book-library/b54d884606ee0577e0fda4f49123b0d40a7608bb/views/index.html)
+[Live Demo](https://raw.githack.com/Oluwadamilareolusakin/javascript-restaurant-page/development/dist/index.html)
 
 ## Getting Started
 
